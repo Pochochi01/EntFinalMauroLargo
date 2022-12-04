@@ -1,0 +1,15 @@
+.carousel-inner {
+	justify-content: center;
+	max-width: 75vw;
+	max-height: 100rem;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+
+.carousel-inner{
+	.carousel-item{
+		justify-content: center;
+		margin-left: 40%;
+	}
+}
